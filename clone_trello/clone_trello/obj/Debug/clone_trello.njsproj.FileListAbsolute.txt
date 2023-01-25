@@ -1,0 +1,6 @@
+C:\Users\Юлия\source\repos\clone_trello\clone_trello\obj\Debug\clone_trello.njsproj.AssemblyReference.cache
+C:\Users\Юлия\source\repos\clone_trello\clone_trello\obj\Debug\clone_trello.njsproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\clone_trello\clone_trello\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Юлия\Source\Repos\websec-2\clone_trello\clone_trello\obj\Debug\clone_trello.njsproj.AssemblyReference.cache
+C:\Users\Юлия\Source\Repos\websec-2\clone_trello\clone_trello\obj\Debug\clone_trello.njsproj.CoreCompileInputs.cache
+C:\Users\Юлия\Source\Repos\websec-2\clone_trello\clone_trello\bin\Microsoft.NodejsTools.WebRole.dll
